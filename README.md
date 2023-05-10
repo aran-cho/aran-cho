@@ -6,7 +6,7 @@
   <br/>
   <br/>
   <br/>
-  👩‍💻 Tac Stack 👩‍💻
+  👩‍💻 Tech Stack 👩‍💻
    <br/>
    <br/>
   <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/></a>
