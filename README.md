@@ -25,5 +25,5 @@
    <br/>
    <br/>
    
-![aran-cho's github stats](https://github-readme-stats.vercel.app/api?username=aran-cho&show_icons=true)
+<!-- ![aran-cho's github stats](https://github-readme-stats.vercel.app/api?username=aran-cho&show_icons=true) -->
 </div>
